@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b3abe40-fed1-4b35-ae6d-dd911fbdeb62" name="Changes" comment="eoifnvoidnfv">
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/dec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/energy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/increment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/monster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/upp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/version.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHeAbTyhxxuXxBVmbhcjqVLbUx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3abe40-fed1-4b35-ae6d-dd911fbdeb62" name="Changes" comment="" />
+      <created>1685014791667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685014791667</updated>
+    </task>
+    <task id="LOCAL-00001" summary="eoifnvoidnfv">
+      <created>1685015213255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685015213256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eoifnvoidnfv">
+      <created>1685015630012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685015630012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eoifnvoidnfv">
+      <created>1685015747598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685015747598</updated>
+    </task>
+    <task id="LOCAL-00004" summary="eoifnvoidnfv">
+      <created>1685018427303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685018427303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="eoifnvoidnfv">
+      <created>1685018613127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685018613128</updated>
+    </task>
+    <task id="LOCAL-00006" summary="eoifnvoidnfv">
+      <created>1685019854541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685019854541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="eoifnvoidnfv">
+      <created>1685020078771</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685020078771</updated>
+    </task>
+    <task id="LOCAL-00008" summary="eoifnvoidnfv">
+      <created>1685020552050</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685020552050</updated>
+    </task>
+    <task id="LOCAL-00009" summary="eoifnvoidnfv">
+      <created>1685021509225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685021509225</updated>
+    </task>
+    <task id="LOCAL-00010" summary="eoifnvoidnfv">
+      <created>1685021522372</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685021522372</updated>
+    </task>
+    <task id="LOCAL-00011" summary="eoifnvoidnfv">
+      <created>1685024210157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024210157</updated>
+    </task>
+    <task id="LOCAL-00012" summary="eoifnvoidnfv">
+      <created>1685024403800</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024403800</updated>
+    </task>
+    <task id="LOCAL-00013" summary="eoifnvoidnfv">
+      <created>1685024592385</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024592385</updated>
+    </task>
+    <task id="LOCAL-00014" summary="eoifnvoidnfv">
+      <created>1685024822406</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024822406</updated>
+    </task>
+    <task id="LOCAL-00015" summary="eoifnvoidnfv">
+      <created>1685029902727</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685029902727</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eoifnvoidnfv" />
+    <option name="LAST_COMMIT_MESSAGE" value="eoifnvoidnfv" />
+  </component>
+</project>
